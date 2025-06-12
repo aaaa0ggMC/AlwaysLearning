@@ -1,6 +1,11 @@
 # AlwaysLearning
 Keep learning till the ocean gain dry --- all the topics that interest me are included,resources are in another repo (not a branch) ==> [AlwaysLearning_Res](https://github.com/aaaa0ggMC/AlwaysLearning_Res)
 
+# BTW
+I'm Chinese actually,so most of my comments in my code are UTF-8-encoded Chinese characters.
+eg. 你好，欢迎来到我的学习历程。（好正式啊）
+
+
 # System Environments
 ## Linux (Old computer)
 <pre>

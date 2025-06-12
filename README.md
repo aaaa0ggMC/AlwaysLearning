@@ -1,8 +1,9 @@
 # AlwaysLearning
-Keep learning till the ocean gain dry --- all the topics that interest me are included,resources are in another repo (not a branch) ==> ![AlwaysLearning_Res](https://github.com/aaaa0ggMC/AlwaysLearning_Res)
+Keep learning till the ocean gain dry --- all the topics that interest me are included,resources are in another repo (not a branch) ==> [AlwaysLearning_Res](https://github.com/aaaa0ggMC/AlwaysLearning_Res)
 
 # System Environments
 ## Linux (Old computer)
+<pre>
 aaaa0ggmc@Minecraft
 \-------------------
 OS: Arch Linux x86\_64
@@ -29,6 +30,7 @@ Disk (/): 103.69 GiB / 110.79 GiB (94%) - btrfs
 Local IP (wlan0): 192.168.50.69/24
 Battery (PABAS0241231): 96% [AC Connected]
 Locale: zh_CN.UTF-8
+</pre>
 
 ## Linux(New Computer) @TODO
 

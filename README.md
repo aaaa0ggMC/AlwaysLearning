@@ -51,3 +51,7 @@ Locale: zh_CN.UTF-8
 - Vim 9
 - VSCode
 
+# Goals -- Embarking on 2025/6/12
+- Logu programs
+- Leet codes
+
